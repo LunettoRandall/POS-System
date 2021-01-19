@@ -91,13 +91,22 @@ _INSTALL POS.JAR PROGRAM_
 
 
 
+_INSTALL THE LATEST JAVA SDK AND JAVAFX_
+
+*Download links here: 
+https://www.oracle.com/java/technologies/javase-downloads.html
+https://openjfx.io/openjfx-docs/#introduction
+
+
+
+
 _RUN POS.JAR PROGRAM_
 
 * Double click the file to launch the application and it should open with 'Jar Launcher' program by default.
 
 ** However, if it is FIRST TIME launching the POS application using the Jar Launcher:
 
-- You will have to RIGHT CLICK the POS.jar file	
+- You may have to RIGHT CLICK the POS.jar file	
 - Select 'Open With'
 - Click 'Jar Launcher'
 
