@@ -1,3 +1,5 @@
+Team Contributors: Chris Collins (Team Lead), Joaquin Flores, Randall Lunetto, Alfonzo Perez
+
 
      ██╗ █████╗ ██████╗  ██████╗                                                                 
      ██║██╔══██╗██╔══██╗██╔════╝                                                                 
